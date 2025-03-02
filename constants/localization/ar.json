@@ -13,7 +13,7 @@
     "subtitle": "حدد عدد اللاعبين"
   },
   "names": {
-    "title": "أدخل أسماء اللاعبين",
+    "title": "أدخل أسماء اللاعبين ",
     "playerLabel": "اللاعب {{number}}",
     "placeholderName": "أدخل اسم اللاعب {{number}}",
     "continue": "استمرار"
