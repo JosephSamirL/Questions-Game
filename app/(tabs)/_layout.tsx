@@ -7,42 +7,31 @@ export default function TabsLayout() {
   return (
     <Stack
       screenOptions={{
-        headerShown: true,
-        headerStyle: {
-          backgroundColor: "#f5f5f5",
-        },
-        headerTitleStyle: {
-          fontWeight: "bold",
-        },
-        headerTintColor: "#006AFF",
+        headerShown: false,
       }}
     >
       <Stack.Screen
         name="topic"
         options={{
-          title: t("screens.topicSelection"),
-          headerShown: true,
+          headerShown: false,
         }}
       />
       <Stack.Screen
         name="index"
         options={{
-          title: t("screens.playerSelection"),
-          headerShown: true,
+          headerShown: false,
         }}
       />
       <Stack.Screen
         name="names"
         options={{
-          title: t("screens.nameSelection"),
-          headerShown: true,
+          headerShown: false,
         }}
       />
       <Stack.Screen
         name="game"
         options={{
-          title: t("screens.game"),
-          headerShown: true,
+          headerShown: false,
         }}
       />
     </Stack>
