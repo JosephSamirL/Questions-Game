@@ -74,8 +74,9 @@ export default function GameScreen() {
   };
 
   const handleExit = () => {
-    // Navigate back to the home screen (player selection)
-    router.replace("/(tabs)/");
+    // Reset the game state and navigate to the topic selection screen
+
+    router.replace("/(tabs)/topic");
   };
 
   return (
