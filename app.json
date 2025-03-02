@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "name": "Questions Game",
+    "slug": "questions-game",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "jsEngine": "jsc",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.questions.game"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.questions.game"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-localization",
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "scheme": "questions-game",
+    "extra": {
+      "eas": {
+        "projectId": "f94cc812-68a1-437a-9556-79865bb9c666"
+      },
+      "router": {
+        "origin": false
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "owner": "joejo",
+    "updates": {
+      "url": "https://u.expo.dev/f94cc812-68a1-437a-9556-79865bb9c666"
+    }
+  }
+}

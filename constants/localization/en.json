@@ -1,0 +1,27 @@
+{
+  "topic": {
+    "pageTitle": "Select a Topic",
+    "general": "General Questions",
+    "science": "Science & Technology",
+    "entertainment": "Entertainment",
+    "sports": "Sports",
+    "history": "History",
+    "languageSwitch": "العربية"
+  },
+  "home": {
+    "title": "Questions Game",
+    "subtitle": "Select number of players"
+  },
+  "names": {
+    "title": "Enter Player Names",
+    "playerLabel": "Player {{number}}",
+    "placeholderName": "Enter name for Player {{number}}",
+    "continue": "Continue"
+  },
+  "game": {
+    "nextQuestion": "Next Question",
+    "exitGame": "Exit Game",
+    "playerTurn": "{{player}}'s Turn",
+    "noQuestions": "No questions available for this topic. Please select a different topic."
+  }
+}

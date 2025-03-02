@@ -1,0 +1,27 @@
+{
+  "topic": {
+    "pageTitle": "اختر موضوعًا",
+    "general": "أسئلة عامة",
+    "science": "العلوم والتكنولوجيا",
+    "entertainment": "الترفيه",
+    "sports": "الرياضة",
+    "history": "التاريخ",
+    "languageSwitch": "English"
+  },
+  "home": {
+    "title": "لعبة الأسئلة",
+    "subtitle": "حدد عدد اللاعبين"
+  },
+  "names": {
+    "title": "أدخل أسماء اللاعبين ",
+    "playerLabel": "اللاعب {{number}}",
+    "placeholderName": "أدخل اسم اللاعب {{number}}",
+    "continue": "استمرار"
+  },
+  "game": {
+    "nextQuestion": "السؤال التالي",
+    "exitGame": "الخروج من اللعبة",
+    "playerTurn": "دور {{player}}",
+    "noQuestions": "لا توجد أسئلة متاحة لهذا الموضوع. يرجى اختيار موضوع مختلف."
+  }
+}
